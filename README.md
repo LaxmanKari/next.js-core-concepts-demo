@@ -2,10 +2,10 @@
 
 Main concepts in Next.js (App Router);
 
-1. Routing and navigation <Link />
+1. Routing and navigation <Link/>
 2. Metadata
 3. Styling (Tailwind CSS)
-4. <Image />
+4. <Image/>
 5. Client vs Server components
 6. Server actions (POST/PUT/DELETE)
 7. Suspense and streaming
